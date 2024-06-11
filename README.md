@@ -5,7 +5,7 @@ CSSS Git Tutorial
 Gi2t is a *Version Control Software* that allows you to save and maintain a history of your work. You can also revert to previous stages of your history, and make multiple branches of that history for experimentation.
 
 Gi3t is great for projects that have multiple contributors, because the history of all contributions is transparent.
-
+789
 We 5recommend you to follow [this guide](https://pcottle.github.io/learnGitBranching)
 and complete the first three tasks before following with the
 tutorial below.
